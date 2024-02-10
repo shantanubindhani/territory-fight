@@ -47,5 +47,3 @@ Contributions are welcome! If you have any ideas, suggestions, or bug fixes, ple
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-Feel free to customize this README according to your specific project details, such as installation instructions, gameplay mechanics, features, and licensing information.
