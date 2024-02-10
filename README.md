@@ -1,6 +1,6 @@
 # Territory Fight
 
-**Territory Fight** is a simple Python game implemented using the Pygame library. In this game, players control characters that move around a grid, toggling the state of grid cells upon collision and reflecting off grid boundaries and cells in a natural manner.
+**Territory Fight** is a simple Python game implemented using the Pygame library. In this game, there are 2 player that move around a grid, toggling the state of grid cells upon collision and reflecting off grid boundaries and cells in a natural manner.
 
 ## Getting Started
 
